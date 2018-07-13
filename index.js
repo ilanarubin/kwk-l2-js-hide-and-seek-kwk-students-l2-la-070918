@@ -13,3 +13,4 @@ function increaseRankBy(n){
   lis[i].innerHTML = (i * n).toString()
   }
 }
+
