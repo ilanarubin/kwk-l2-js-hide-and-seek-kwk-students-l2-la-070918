@@ -9,5 +9,5 @@ function nestedTarget(sector){
 
 function increaseRankBy(n){
   document.querySelectorAll('ul.ranked-list li')
-  ranked
+  ranked-list.innerHTML(n).toString()
 }
